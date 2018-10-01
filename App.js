@@ -8,6 +8,7 @@ export default class App extends React.Component {
         <Text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum hendrerit mollis nunc vitae dignissim.</Text>
         <Text>Changes you make will automatically reload.</Text>
         <Text>Shake your phone to open the developer menu.</Text>
+		<Text>New modifications</Text>
       </View>
     );
   }
@@ -16,7 +17,7 @@ export default class App extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#ffff00',
     alignItems: 'center',
     justifyContent: 'center',
   },
