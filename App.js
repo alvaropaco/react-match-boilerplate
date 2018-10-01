@@ -8,7 +8,8 @@ export default class App extends React.Component {
         <Text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum hendrerit mollis nunc vitae dignissim.</Text>
         <Text>Changes you make will automatically reload.</Text>
         <Text>Shake your phone to open the developer menu.</Text>
-		<Text>New modifications</Text>
+		<Text>New Line Added.</Text>
+		<Text>New modifications.</Text>
       </View>
     );
   }
