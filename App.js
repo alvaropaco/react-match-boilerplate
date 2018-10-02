@@ -5,9 +5,9 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-		<Text>Raquel s2</Text>
         <Text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum hendrerit mollis nunc vitae dignissim.</Text>
         <Text>Changes you make will automatically reload.</Text>
+		<Text>I was lost.</Text>
       </View>
     );
   }
