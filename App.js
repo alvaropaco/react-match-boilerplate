@@ -7,7 +7,6 @@ export default class App extends React.Component {
       <View style={styles.container}>
         <Text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum hendrerit mollis nunc vitae dignissim.</Text>
         <Text>Changes you make will automatically reload.</Text>
-		<Text>I was lost.</Text>
       </View>
     );
   }
@@ -16,7 +15,7 @@ export default class App extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#ffff00',
+    backgroundColor: '#ff0000',
     alignItems: 'center',
     justifyContent: 'center',
   },
